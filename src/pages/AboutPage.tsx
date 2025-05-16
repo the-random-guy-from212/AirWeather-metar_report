@@ -60,7 +60,7 @@ export function AboutPage() {
             </div>
             <div className="text-center mb-6">
               <img 
-                src="src/images/personal_image.jpg"
+                src="src/assets/me.jpg"
                 alt="Ilyass Basbassi" 
                 className="w-32 h-32 rounded-full mx-auto mb-4 object-cover"
               />
